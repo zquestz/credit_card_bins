@@ -1,0 +1,11 @@
+---
+'585975':
+  bin: '585975'
+  brand: MAESTRO
+  type: CREDIT
+  category: STANDARD
+  issuer: 'TARGET GOLD'
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States

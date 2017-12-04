@@ -1,0 +1,11 @@
+---
+'593051':
+  bin: '593051'
+  brand: MAESTRO
+  type: DEBIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: IT
+    alpha_3: ITA
+    name: Italy

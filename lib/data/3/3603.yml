@@ -1,0 +1,11 @@
+---
+'360376':
+  bin: '360376'
+  brand: DINERS CLUB INTERNATIONAL
+  type: CREDIT
+  category: STANDARD
+  issuer: ''
+  country:
+    alpha_2: SG
+    alpha_3: SGP
+    name: Singapore

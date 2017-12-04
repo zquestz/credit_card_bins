@@ -1,0 +1,11 @@
+---
+'607093':
+  bin: '607093'
+  brand: RUPAY
+  type: DEBIT
+  category: CLASSIC
+  issuer: PUNJAB NATIONAL BANK
+  country:
+    alpha_2: IN
+    alpha_3: IND
+    name: India

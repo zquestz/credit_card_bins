@@ -1,0 +1,61 @@
+---
+'559809':
+  bin: '559809'
+  brand: MASTERCARD
+  type: ''
+  category: GOLD
+  issuer: 'CREDIT MUTUEL ARKEA'
+  country:
+    alpha_2: FR
+    alpha_3: FRA
+    name: France
+'559822':
+  bin: '559822'
+  brand: MASTERCARD
+  type: ''
+  category: STANDARD
+  issuer: 'FEDERATION DES CAISSES DESJARDINS DU QUEBEC'
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'559827':
+  bin: '559827'
+  brand: MASTERCARD
+  type: ''
+  category: WORLD
+  issuer: 'FEDERATION DES CAISSES DESJARDINS DU QUEBEC'
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'559828':
+  bin: '559828'
+  brand: MASTERCARD
+  type: ''
+  category: WORLD
+  issuer: 'FEDERATION DES CAISSES DESJARDINS DU QUEBEC'
+  country:
+    alpha_2: CA
+    alpha_3: CAN
+    name: Canada
+'559855':
+  bin: '559855'
+  brand: MASTERCARD
+  type: ''
+  category: ENHANCED
+  issuer: 'U.S. BANK, N.A.'
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
+'559870':
+  bin: '559870'
+  brand: MASTERCARD
+  type: ''
+  category: WORLD
+  issuer: 'INDEPENDENT BANK'
+  country:
+    alpha_2: US
+    alpha_3: USA
+    name: United States
